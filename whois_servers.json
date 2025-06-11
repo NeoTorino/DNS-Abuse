@@ -1,0 +1,139 @@
+{
+    "com": [
+        "whois.verisign-grs.com",
+        "whois.markmonitor.com",
+        "whois.godaddy.com",
+        "whois.namecheap.com",
+        "whois.networksolutions.com",
+        "whois.tucows.com",
+        "whois.enom.com",
+        "whois.1and1.com",
+        "whois.register.com",
+        "whois.wild-west-domains.com"
+    ],
+    "net": [
+        "whois.verisign-grs.com",
+        "whois.markmonitor.com",
+        "whois.tucows.com",
+        "whois.enom.com",
+        "whois.networksolutions.com"
+    ],
+    "org": [
+        "whois.pir.org",
+        "whois.publicinterestregistry.net",
+        "whois.afilias.net"
+    ],
+    "info": [
+        "whois.afilias.net",
+        "whois.afilias.info"
+    ],
+    "biz": [
+        "whois.neulevel.biz",
+        "whois.afilias.net"
+    ],
+    "uk": [
+        "whois.nic.uk"
+    ],
+    "co.uk": [
+        "whois.nic.uk",
+        "whois.nominet.uk"
+    ],
+    "io": [
+        "whois.nic.io",
+        "whois.iana.org"
+    ],
+    "ru": [
+        "whois.tcinet.ru",
+        "whois.ripn.net"
+    ],
+    "de": [
+        "whois.denic.de",
+        "whois.nic.de"
+    ],
+    "fr": [
+        "whois.nic.fr",
+        "whois.afnic.fr"
+    ],
+    "it": [
+        "whois.nic.it",
+        "whois.iana.org"
+    ],
+    "jp": [
+        "whois.jprs.jp",
+        "whois.nic.ad.jp"
+    ],
+    "cn": [
+        "whois.cnnic.cn",
+        "whois.cnnic.net.cn"
+    ],
+    "br": [
+        "whois.registro.br",
+        "whois.nic.br"
+    ],
+    "mx": [
+        "whois.mx",
+        "whois.nic.mx"
+    ],
+    "dev": [
+        "whois.nic.google",
+        "whois.registry.google",
+        "whois.google.com"
+    ],
+    "app": [
+        "whois.nic.google",
+        "whois.registry.google",
+        "whois.google.com"
+    ],
+    "page": [
+        "whois.nic.google",
+        "whois.registry.google"
+    ],
+    "xyz": [
+        "whois.nic.xyz",
+        "whois.xyz"
+    ],
+    "top": [
+        "whois.nic.top",
+        "whois.top"
+    ],
+    "site": [
+        "whois.nic.site",
+        "whois.radix.net.in"
+    ],
+    "online": [
+        "whois.nic.online",
+        "whois.radix.net.in"
+    ],
+    "shop": [
+        "whois.nic.shop",
+        "whois.gmo-registry.com"
+    ],
+    "club": [
+        "whois.nic.club",
+        "whois.centralnic.com"
+    ],
+    "link": [
+        "whois.uniregistry.net",
+        "whois.nic.link"
+    ],
+    "live": [
+        "whois.nic.live",
+        "whois.uniregistry.net"
+    ],
+    "cloud": [
+        "whois.nic.cloud",
+        "whois.aruba.it"
+    ],
+    "me": [
+        "whois.nic.me",
+        "whois.domain.me"
+    ],
+    "co": [
+        "whois.nic.co",
+        "whois.coreregistry.net"
+    ],
+    "default": [
+        "whois.iana.org",
+        "whois.internic.net"
+    ]
+}
